@@ -2,7 +2,7 @@
 
 sample repository to use gradle multi-project.
 yuyud
-## Overviewg
+## Overviewgd
 e
 There are 3 sub pjojects.
 ddd
