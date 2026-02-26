@@ -1,7 +1,7 @@
 # gradle-multi-project-sample
 
 sample repository to use gradle multi-project.
-yuyu
+yuyud
 ## Overviewg
 e
 There are 3 sub pjojects.
